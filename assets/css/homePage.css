@@ -1,0 +1,6 @@
+.circleImage {
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: maroon;
+    border-style: solid;
+}
