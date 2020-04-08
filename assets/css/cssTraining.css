@@ -1,0 +1,31 @@
+.section{
+    width: 80%;
+    height: auto;
+    background-color: teal;
+    border: teal;
+    border-style: dashed;
+    padding: 5px;
+    margin-top: 20px;
+    color: white;
+}
+
+#textdesign{
+    text-decoration-color: royalblue;
+
+}
+
+.italy image{
+    background-image: url(../images/italy.jpg);
+}
+
+.japan image{
+    background-image: url(../images/Japan-Travel-Guide.jpg);
+}
+
+.germany image{
+    background-image: url(../images/German-Culture-and-Traditions-696x464.jpg);
+}
+
+.usa image{
+    background-image: url(../images/freedom-tower.jpg);
+}
