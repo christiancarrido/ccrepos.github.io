@@ -1,11 +1,16 @@
-.section{
+
+.japan image{
+    background-image: url(../images/Japan-Travel-Guide.jpg);
+}
+
+.section {
     width: 80%;
-    height: auto;
-    background-color: teal;
-    border: teal;
-    border-style: dashed;
-    padding: 5px;
-    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    outline: 1px solid rgb(26, 218, 128);
+    margin-top: 15px;
+    height: 200px;
+    background-color: rgb(22, 9, 9);
     color: white;
 }
 
@@ -18,9 +23,6 @@
     background-image: url(../images/italy.jpg);
 }
 
-.japan image{
-    background-image: url(../images/Japan-Travel-Guide.jpg);
-}
 
 .germany image{
     background-image: url(../images/German-Culture-and-Traditions-696x464.jpg);
