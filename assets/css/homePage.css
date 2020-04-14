@@ -13,16 +13,45 @@ body{
 #firstbox {
     width: 200px;
     height: 200px;
-    background: #d1ecff;
+    background: #970b0b;
     border: dashed;
     padding: 5px;
+    float: left;
 }
 
 #secondbox {
-    width: 300px;
+    width: 200px;
     height: 200px;
-    background: orange;
+    background: rgb(209, 56, 10);
     border: ridge;
-    padding: 10px;
-    margin: 20px;
+    padding: 5px;
+    clear: both;
+}
+
+
+
+
+a.bclink{
+    color: green;
+    text-decoration: green;
+    text-underline-position: below;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px;
+
+}
+
+a.bclink:visited{
+    color:red;
+}
+
+a.bclink:hover{
+    background-color: green;
+    color: white;
+}
+
+a.bclink:active{
+    background-color: red;
+    color: white;
+
 }

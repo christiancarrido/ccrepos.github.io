@@ -68,6 +68,24 @@
     border: 2px solid aqua;
 }
 
+.visited-state:visited{
+    color: teal;
+}
+
 #link{
     color: yellowgreen;
+}
+
+div.col-md-2{
+    height: 200px;
+    background-color: turquoise;
+}
+
+div.col-md-3{
+    height: 80px;
+    background-color: teal; 
+}
+
+.fontstyle{
+    color: white;
 }
