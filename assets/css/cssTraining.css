@@ -76,9 +76,9 @@
     color: yellowgreen;
 }
 
-div.col-md-2{
-    height: 200px;
-    background-color: turquoise;
+div.col-md-4{
+    height: 80px;
+    background-color: yellowgreen;
 }
 
 div.col-md-3{
@@ -87,5 +87,5 @@ div.col-md-3{
 }
 
 .fontstyle{
-    color: white;
+    color:white;
 }

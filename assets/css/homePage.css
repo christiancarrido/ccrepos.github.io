@@ -28,6 +28,16 @@ body{
     clear: both;
 }
 
+.topright{
+    color: crimson;
+    font-weight: bold;
+}
+
+.navbarfont{
+    color: darkgray;
+    font-weight: lighter;
+}
+
 
 
 
