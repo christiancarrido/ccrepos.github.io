@@ -1,0 +1,95 @@
+
+
+.customNavBg {
+    background-color: #8f1010!important;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: whitesmoke;
+}
+.top-left{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbarpages{
+    color: rgb(255, 224, 224);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.circleImage{
+    
+    border-radius: 60%;
+    border-style: none;
+    margin: 20px;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.projectGallerySection div.card {
+    margin-bottom: 30px;
+}
+
+.col-lg-3{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-md-4{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-sm-6{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+body{
+    background-color: lightgray;
+    background-image: url(../images/56d581b578bb0_thumb900.jpg);
+    background-size: cover;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #8f1010;
+    color: white;
+    text-align: center;
+}
